@@ -19,7 +19,7 @@ Of course the client can be a normal browser.
 
 ## Tests :
 
-Not everything has been tested, only the fact that client/server work between each other and from outside sources (browsers)
+Not everything has been tested, only the fact that client/server work between each other and with outside sources (browsers)
 	
 ## Related projects :
 
